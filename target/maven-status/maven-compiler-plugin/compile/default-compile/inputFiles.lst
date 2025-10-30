@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\controller\ClienteController.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\model\Tecnico.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\repository\TecnicoRepository.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\SupportTicketSystemApplication.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\controller\SolicitudController.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\exception\ResourceNotFoundException.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\service\TecnicoService.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\exception\GlobalExceptionHandler.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\model\Cliente.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\repository\ClienteRepository.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\service\SolicitudService.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\controller\TecnicoController.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\model\Solicitud.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\repository\SolicitudRepository.java
+C:\Users\LENOVO\Desktop\Cuarto ciclo\Desarrollo de los componentes de negocio\support-ticket-system\src\main\java\com\example\supportticketsystem\service\ClienteService.java
