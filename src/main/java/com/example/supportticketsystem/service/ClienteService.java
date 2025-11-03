@@ -6,6 +6,7 @@ import com.example.supportticketsystem.repository.ClienteRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
+// todo agregar la logica para obtener las solicitudes pendientes por cliente
 @Service
 public class ClienteService {
     private final ClienteRepository repository;

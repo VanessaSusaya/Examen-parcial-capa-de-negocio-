@@ -7,6 +7,7 @@ import lombok.Data;
 
 @Data
 @Entity
+//todo: tener el mapeo de lista de solicitudes del cliente
 public class Cliente {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
