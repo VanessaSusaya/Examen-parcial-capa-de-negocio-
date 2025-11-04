@@ -30,6 +30,9 @@ public class ClienteController {
         service.eliminar(id);
     }
     
-    @OneToMany(mappedBy = "cliente", cascade = CascadeType.ALL)
-    private List<Solicitud> solicitudes;
+    @GetMapping("/{id}/solicitudes")
+    public List<Solicitud> listarSolicitudes(@PathVariable Long id) {
+        return service.listarSolicitudes(id);
+    }
+
 }
