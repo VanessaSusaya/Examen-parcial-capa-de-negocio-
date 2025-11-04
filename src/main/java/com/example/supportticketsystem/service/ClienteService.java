@@ -30,4 +30,10 @@ public class ClienteService {
     public void eliminar(Long id) {
         repository.deleteById(id);
     }
+
+    public List<Solicitud> listarSolicitudes(Long clienteId) {
+    Cliente cliente = obtener(clienteId);
+    return cliente.getSolicitudes();
+    }
+
 }
