@@ -29,4 +29,7 @@ public class ClienteController {
     public void eliminar(@PathVariable Long id) {
         service.eliminar(id);
     }
+    
+    @OneToMany(mappedBy = "cliente", cascade = CascadeType.ALL)
+    private List<Solicitud> solicitudes;
 }
