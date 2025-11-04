@@ -18,4 +18,7 @@ public class Cliente {
     @Email
     @NotBlank
     private String correo;
+
+    @OneToMany(mappedBy = "cliente", cascade = CascadeType.ALL)
+    private List<Solicitud> solicitudes;
 }
