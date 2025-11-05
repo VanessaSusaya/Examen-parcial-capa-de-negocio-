@@ -5,7 +5,7 @@ import com.example.supportticketsystem.model.Cliente;
 import com.example.supportticketsystem.repository.ClienteRepository;
 import org.springframework.stereotype.Service;
 import java.util.List;
-import com.example.supportticketsystem.model.Solicitud; 
+import com.example.supportticketsystem.model.Solicitud; // ✅ AGREGA ESTA LÍNEA
 
 @Service
 public class ClienteService {

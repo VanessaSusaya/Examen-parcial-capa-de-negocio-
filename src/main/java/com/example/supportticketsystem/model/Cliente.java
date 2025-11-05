@@ -18,6 +18,10 @@ public class Cliente {
 
     @Email
     @NotBlank
+
+    public List<Solicitud> getSolicitudes() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
     private String correo;
 
     @OneToMany(mappedBy = "cliente", cascade = CascadeType.ALL)
