@@ -10,7 +10,6 @@ import java.util.List;
 @RequestMapping("/api/solicitudes")
 public class SolicitudController {
     private final SolicitudService service;
-
     public SolicitudController(SolicitudService service) {
         this.service = service;
     }
@@ -33,5 +32,9 @@ public class SolicitudController {
     @DeleteMapping("/{id}")
     public void eliminar(@PathVariable Long id) {
         service.eliminar(id);
+    }
+
+    public SolicitudService getService() {
+        return service;
     }
 }
