@@ -5,6 +5,7 @@ import com.example.supportticketsystem.service.ClienteService;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
+import com.example.supportticketsystem.model.Solicitud; // ✅ AGREGA ESTA LÍNEA
 
 @RestController
 @RequestMapping("/api/clientes")
